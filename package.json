@@ -1,0 +1,23 @@
+{
+	"name": "interview_course",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"jest": "^26.1.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jtmccutcheon/interview_course.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Jtmccutcheon/interview_course/issues"
+	},
+	"homepage": "https://github.com/Jtmccutcheon/interview_course#readme"
+}
